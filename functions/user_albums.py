@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 def make_album(artist_name,album_title,number_tracks=''):
+=======
+def make_album(artist_name,album_title,number_tracks = ''):
+>>>>>>> aabd2cbef4af96d5133557a4816f9dbc2a4d6279
     album = {
         'artist_name' : artist_name,
         'album_title' : album_title
