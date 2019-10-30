@@ -1,0 +1,5 @@
+First thing that i learn about python:When i begun read this book,i think that a beginner in
+programing will cannot learn about programming with this book,but,i already was experienced
+with the programming,i read this book just for learn about python,but i was wrong,with python
+if you can learn about python from scratch,more specifically about types,with functions
+how int(),float(),string() etc,Python is a excellent language for learn to program :D
